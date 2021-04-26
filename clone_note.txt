@@ -1,0 +1,5 @@
+i just createdet empty remote repostory from githb.com account by clicking on the plus icon on top right corner and new repostiry and give a name and click create
+
+and cloned ths repos by clicking on set up in desktop and optionaly select the location click on clon
+
+it cloned our remote repo to local so we can start working localy
